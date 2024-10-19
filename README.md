@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-I'm Muhammad Zayem, a dedicated web developer by day ☀️ and a tech explorer by night.
+A dedicated web developer by day ☀️ and a tech explorer by night.
 
 
 - ⚙️ Daily tools: JavaScript, React, Next.js, TypeScript
