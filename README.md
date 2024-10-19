@@ -8,7 +8,7 @@ A dedicated web developer by day ☀️ and a tech explorer by night.
 - 🔭 Exploring: Blockchain technology, NEAR Protocol, and web3 integrations
 - 🌱 Always learning: Open Source, full-stack development, and advanced frontend techniques
 - 💬 Ask me about: Web development, frontend frameworks, Next.js, and music streaming apps
-- 📫 Get in touch: Twitter
+- 📫 Get in touch: [mzayemazam@gmail.com](mailto:mzayemazam@gmail.com)
 - 🎮 Fun fact: I love gaming and I'm always down for tech-related discussions!
 
 
