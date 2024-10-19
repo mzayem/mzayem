@@ -1,10 +1,10 @@
-## Hi there 👋
+
+# 💫 About Me:
 
 <!--
 I'm Muhammad Zayem, a dedicated web developer by day ☀️ and a tech explorer by night.
 -->
 
-# 💫 About Me:
 
 - ⚙️ Daily tools: JavaScript, React, Next.js, TypeScript
 - 🔭 Exploring: Blockchain technology, NEAR Protocol, and web3 integrations
