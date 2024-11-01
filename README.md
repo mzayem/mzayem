@@ -4,7 +4,7 @@
       <h1 color=#F7CC18FF> Hi there, I'm Muhammad Zayem👋<a href="#"></h1>
     </div>
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Web+Developer+Trainee+;Graphic+Designer;Intern+at+KPMG+AU;Computer+Science+24*;Student+at+UET;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Web+Developer;FrontEnd+Developer;Intern+at+Near+Builders;Computer+Science+2024;Student+at+IUB;" alt="Typing SVG" /></a>
   </p>
 
 
@@ -162,7 +162,14 @@
 ## Profile Statistics:
 Stats|Streak|Languages
 |---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mzayem&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=mzayem&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mzayem&theme=gruvbox)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mzayem&theme=github)|[![GitHub Streak](https://streak-stats.demolab.com/?user=mzayem&theme=github&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mzayem&theme=github&border=#000)|
+
+info|commit
+|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzayem&theme=github)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mzayem&theme=github&utcOffset=5)|
+
+
+
 
 
         
