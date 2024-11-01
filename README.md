@@ -180,7 +180,8 @@ info|commit
   <img src="https://profile-counter.glitch.me/mzayem/count.svg" />
 </p>
 
-
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 
 
