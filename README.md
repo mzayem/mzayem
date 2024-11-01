@@ -168,20 +168,14 @@ info|commit
 |---|---|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzayem&theme=github)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mzayem&theme=github&utcOffset=5)|
 
-
-
-
-
-        
-        
-## Profile Views      
+### Profile Views      
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/mzayem/count.svg" />
 </p>
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 
 
 
