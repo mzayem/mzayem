@@ -7,8 +7,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Web+Developer;FrontEnd+Developer;Intern+at+Near+Builders;Computer+Science+2024;Student+at+IUB;" alt="Typing SVG" /></a>
   </p>
 
-
-- 🔭 A Web trainee with a demonstrated history of working as a Frontend Developer having nearly 1 years of experience in web development with high hands-on experience in WordPress and a solid grip on JavaScript, Bootstrap and PHP.
+##### A dedicated web developer by day ☀️ and a tech explorer by night.
+- 🔭 A FrontEnd Web Developer with a demonstrated history of working as a Frontend Developer having nearly 1 years of experience in web development with high hands-on experience in WordPress and a solid grip on JavaScript, Bootstrap,Tailwind, Next.js and React.js.
 - ⚙️ Daily tools: JavaScript, React, Next.js, TypeScript
 - 🔭 Exploring: Blockchain technology, NEAR Protocol, and web3 integrations
 - 🌱 Always learning: Open Source, full-stack development, and advanced frontend techniques
