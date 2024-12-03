@@ -159,14 +159,19 @@
   </a>
 </p>
 
-## Profile Statistics:
-Stats|Streak|Languages
+ ## Profile Statistics:
+<!-- Stats|Streak|Languages
 |---|---|---|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mzayem&theme=github)|[![GitHub Streak](https://streak-stats.demolab.com/?user=mzayem&theme=github&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mzayem&theme=github&border=#000)|
+-->
+Stats|Languages
+|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mzayem&theme=github)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mzayem&theme=github&border=#000)|
 
 info|commit
 |---|---|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzayem&theme=github)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mzayem&theme=github&utcOffset=5)|
+
 
 ### Profile Views      
 <p align="center"> 
