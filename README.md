@@ -9,7 +9,7 @@
 
 ##### A dedicated web developer by day ☀️ and a tech explorer by night.
 - 🔭 A FrontEnd Web Developer with a demonstrated history of working as a Frontend Developer having nearly 1 years of experience in web development with high hands-on experience in WordPress and a solid grip on JavaScript, Bootstrap,Tailwind, Next.js and React.js.
-- ⚙️ Daily tools: JavaScript, React, Next.js, TypeScript
+- ⚙️ Daily tools: JavaScript, React, Next.js, TypeScript, ASP.Net, C#
 - 🔭 Exploring: Blockchain technology, NEAR Protocol, and web3 integrations
 - 🌱 Always learning: Open Source, full-stack development, and advanced frontend techniques
 - 💬 Ask me about: Web development, frontend frameworks, Next.js, and music streaming apps
